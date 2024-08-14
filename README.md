@@ -115,3 +115,17 @@ La puntuación promedio de las tres puntuaciones más altas es: 0.00
 
 - Asegúrate de ingresar puntuaciones en el rango de 0 a 10. El programa validará las puntuaciones y mostrará un mensaje de error si alguna puntuación no es válida.
 - Si encuentras problemas al compilar o ejecutar el programa, verifica que el JDK esté correctamente instalado y que las rutas sean las adecuadas.
+
+## Clonar el Repositorio
+
+Para clonar el repositorio, usa el siguiente comando en tu terminal:
+
+```bash
+git clone https://github.com/DavidPerezNuma/Dance-_Tournament.git
+```
+
+## Autores
+
+- Juan David Pérez Numa
+- Anner Alexis Carabalí Banguera
+- Andrés Felipe Rodríguez Martínez
